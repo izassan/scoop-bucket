@@ -1,5 +1,5 @@
 {
-    "version": "1.0",
+    "version": "91-r2",
     "extract_dir": "",
     "architecture": {
         "64bit": {
@@ -7,5 +7,8 @@
             "hash": "7059bde3162f756c510a3ef62b556637963c55b745ea83d5ee8adbd1b06d9897"
         }
     },
-    "bin": ["vim.exe", "gvim.exe"]
+    "bin": ["vim.exe", "gvim.exe"],
+    "autoupdate": {
+        "url": "https://github.com/izassan/vim-build/releases/download/vim$version/vim91.zip"
+    }
 }
