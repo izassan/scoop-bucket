@@ -4,7 +4,7 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/izassan/vim-build/releases/download/vim91-r01/vim91.zip",
-            "hash": "269126eb5383095e0f33082f34946d6c0bc67c988bf8666f96160fdff9d312a1"
+            "hash": "69666b9d308f6fa2ab7e64a6d3e43e51c8dcfeda945e45c219712e339d5d18f2"
         }
     },
     "bin": ["vim.exe", "gvim.exe"]
