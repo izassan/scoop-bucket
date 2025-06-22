@@ -1,0 +1,12 @@
+{
+    "version": "0.4.3",
+    "extract_dir": "",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/rprichard/winpty/releases/download/0.4.3/winpty-0.4.3-msvc2015.zip",
+            "hash": "35a48ece2ff4acdcbc8299d4920de53eb86b1fb41e64d2fe5ae7898931bcee89"
+        }
+    },
+    "env_add_path": "x64/bin",
+    "bin": ["x64/bin/winpty-agent.exe"]
+}
