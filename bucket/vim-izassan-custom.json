@@ -1,14 +1,10 @@
 {
-    "version": "91-r2",
-    "extract_dir": "",
+    "version": "9.2.0131",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/izassan/vim-build/releases/download/vim91-r02/vim91.zip",
-            "hash": "7059bde3162f756c510a3ef62b556637963c55b745ea83d5ee8adbd1b06d9897"
+            "url": "https://github.com/izassan/vim-build/releases/download/v9.2.0131/vim92.zip",
+            "hash": "35fa61ba1616da7ca2e832b8befcadf1796b30bfa014936c3c9558a059b218f1"
         }
     },
-    "bin": ["vim.exe", "gvim.exe"],
-    "autoupdate": {
-        "url": "https://github.com/izassan/vim-build/releases/download/vim$version/vim91.zip"
-    }
+    "bin": ["vim.exe", "gvim.exe"]
 }
